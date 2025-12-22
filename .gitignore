@@ -1,0 +1,27 @@
+# --- Python & Environnement ---
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+.ipynb_checkpoints/
+
+# --- IDE (Configuration Editeur) ---
+.vscode/
+.idea/
+.spyderproject/
+
+# --- Modèles de Machine Learning ---
+# On ignore le dossier qui contient tes modèles téléchargés/fine-tunés
+ml_models/
+
+# On ignore aussi par sécurité les extensions de fichiers lourds
+*.bin
+*.pt
+*.pth
+*.h5
+*.onnx
+*.safetensors
+
+# --- Logs et fichiers temporaires ---
+*.log

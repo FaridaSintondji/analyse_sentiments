@@ -1,0 +1,11 @@
+flask
+fastapi
+uvicorn
+pandas
+matplotlib
+torch
+transformers
+textblob
+scikit-learn
+pydantic
+requests
