@@ -1,0 +1,561 @@
+id,brand,product,source,language,review_text,sentiment_label,sentiment_id,sarcastic
+1089,Xiaomi,Redmi Note 12,review,en,"Great, Redmi Note 12 froze right in the middle of my call, nice job Xiaomi 👏",negative,0,0
+773,Apple,iPhone 14,tweet,es,"iPhone 14 se calienta demasiado, imposible usarlo bien.",negative,0,0
+2162,McDonalds,McDo App,review,es,"McDo App funciona muy bien, estoy muy contento 😊",positive,2,0
+1193,Xiaomi,Redmi Note 12,review,pt,"Redmi Note 12 é ok, nada demais.",neutral,1,0
+1917,Netflix,Netflix App,tweet,ar,رائع، Netflix App تعطل مرة أخرى… Merci pour rien.,negative,0,1
+1615,Tesla,Model Y,tweet,en,"Still testing Model Y, too early to judge.",neutral,1,0
+1400,Xiaomi,Mi 11 Lite,review,ar,ما زلت أجرب Mi 11 Lite، من المبكر الحكم.,neutral,1,0
+1462,Tesla,Model 3,review,es,"Muchos fallos con Model 3, no lo recomiendo. Trop bien, j'adore perdre mon temps.",negative,0,1
+2223,McDonalds,McDo App,review,it,"McDo App è nella media, niente di speciale.",neutral,1,0
+1115,Xiaomi,Redmi Note 12,review,es,"Muy buena compra, Redmi Note 12 vale la pena.",positive,2,0
+2407,Sony,PlayStation 5,review,pt,"O suporte de PlayStation 5 é péssimo, ninguém responde.",negative,0,0
+2600,Google,Pixel 7,review,pt,"Pixel 7 esquenta demais, difícil de usar.",negative,0,0
+2045,McDonalds,McDo Livraison,tweet,it,"La batteria di McDo Livraison dura tanto, molto comodo.",positive,2,0
+1012,Apple,iPhone 15,tweet,pt,"iPhone 15 é um desastre completo, muito decepcionado 😡",negative,0,0
+2109,McDonalds,McDo App,review,fr,"McDo App c'est une catastrophe, je regrette grave cet achat 😡 Trop bien, j'adore perdre mon temps.",negative,0,1
+458,Samsung,Galaxy A54,review,it,"Ottimo acquisto, Galaxy A54 va davvero bene.",positive,2,0
+680,Apple,iPhone 13,review,ar,مشاكل كثيرة مع iPhone 13، لا أنصح به.,negative,0,0
+2634,Google,YouTube App,review,fr,"Franchement YouTube App c'est une dinguerie, rien à dire 😍",positive,2,0
+322,Samsung,Galaxy S22,tweet,pt,"A bateria de Galaxy S22 dura bastante, gostei.",positive,2,0
+1100,Xiaomi,Redmi Note 12,tweet,en,"For the price, Redmi Note 12 is definitely worth it.",positive,2,0
+1371,Xiaomi,Mi 11 Lite,review,pt,"Mi 11 Lite esquenta demais, difícil de usar. Merci pour rien.",negative,0,1
+1533,Tesla,Model 3,tweet,pt,"Recebi Model 3, igual à descrição.",neutral,1,0
+403,Samsung,Galaxy A54,tweet,es,"Por el precio, Galaxy A54 está genial.",positive,2,0
+1350,Xiaomi,Mi 11 Lite,review,it,"Mi 11 Lite è nella media, niente di speciale.",neutral,1,0
+701,Apple,iPhone 14,tweet,fr,"iPhone 14 chauffe tout le temps, impossible de jouer plus de 10 minutes. Meilleure expérience de ma vie, vraiment.",negative,0,1
+434,Samsung,Galaxy A54,tweet,de,"Ständige Abstürze mit Galaxy A54, danke Samsung…",negative,0,0
+2500,Google,Pixel 7,review,en,"Basic use of Pixel 7, does the job.",neutral,1,0
+832,Apple,iPhone 14,review,pt,"iPhone 14 funciona muito bem, estou bem satisfeito 😊",positive,2,0
+1406,Tesla,Model 3,tweet,fr,"Encore un bug avec Model 3, sérieux Tesla abuse là… Meilleure expérience de ma vie, vraiment.",negative,0,1
+1243,Xiaomi,Mi 11 Lite,tweet,fr,"Mi 11 Lite chauffe tout le temps, impossible de jouer plus de 10 minutes.",negative,0,0
+846,Apple,iPhone 14,tweet,pt,"Ainda testando iPhone 14, cedo pra opinar.",neutral,1,0
+409,Samsung,Galaxy A54,review,es,"El soporte de Galaxy A54 es pésimo, nadie responde. Non vraiment, continuez comme ça…",negative,0,1
+1424,Tesla,Model 3,tweet,fr,"Pour le prix, Model 3 fait largement le taf 👍",positive,2,0
+606,Apple,iPhone 13,review,de,"iPhone 13 ist okay, nichts Besonderes.",neutral,1,0
+2114,McDonalds,McDo App,tweet,fr,"McDo App chauffe tout le temps, impossible de jouer plus de 10 minutes.",negative,0,0
+496,Samsung,Galaxy A54,tweet,pt,"Galaxy A54 funciona muito bem, estou bem satisfeito 😊",positive,2,0
+212,Samsung,Galaxy S22,review,en,"For the price, Galaxy S22 is definitely worth it.",positive,2,0
+942,Apple,iPhone 15,tweet,es,"Todavía probando iPhone 15, demasiado pronto para opinar.",neutral,1,0
+1422,Tesla,Model 3,tweet,fr,Pas encore assez utilisé Model 3 pour donner un vrai avis.,neutral,1,0
+2788,Google,YouTube App,tweet,ar,خدمة الدعم لـ YouTube App سيئة جدًا، لا أحد يرد.,negative,0,0
+1993,McDonalds,McDo Livraison,review,es,"Muy buena compra, McDo Livraison vale la pena.",positive,2,0
+1451,Tesla,Model 3,tweet,es,Tesla hizo un buen trabajo con Model 3.,positive,2,0
+2068,McDonalds,McDo Livraison,review,pt,"McDo Livraison funciona muito bem, estou bem satisfeito 😊",positive,2,0
+297,Samsung,Galaxy S22,tweet,it,"Galaxy S22 si scalda troppo, difficile da usare. Non vraiment, continuez comme ça…",negative,0,1
+2740,Google,YouTube App,review,it,"Sto ancora provando YouTube App, troppo presto per giudicare.",neutral,1,0
+573,Apple,iPhone 13,tweet,en,"Still testing iPhone 13, too early to judge.",neutral,1,0
+1594,Tesla,Model Y,tweet,fr,"Pour le prix, Model Y fait largement le taf 👍",positive,2,0
+2372,Sony,PlayStation 5,review,de,"PlayStation 5 ist in Ordnung, hatte aber mehr erwartet.",neutral,1,0
+1376,Xiaomi,Mi 11 Lite,review,ar,خدمة الدعم لـ Mi 11 Lite سيئة جدًا، لا أحد يرد.,negative,0,0
+678,Apple,iPhone 13,tweet,ar,Apple قامت بعمل جيد مع iPhone 13.,positive,2,0
+1675,Tesla,Model Y,review,de,Für den Preis ist Model Y auf jeden Fall top.,positive,2,0
+859,Apple,iPhone 14,tweet,ar,بطارية iPhone 14 تدوم لفترة طويلة، شيء جميل.,positive,2,0
+979,Apple,iPhone 15,review,it,Apple ha fatto un buon lavoro con iPhone 15.,positive,2,0
+464,Samsung,Galaxy A54,review,it,"Galaxy A54 funziona benissimo, sono molto soddisfatto 😊",positive,2,0
+1180,Xiaomi,Redmi Note 12,review,pt,"Muitos bugs em Redmi Note 12, não recomendo.",negative,0,0
+1091,Xiaomi,Redmi Note 12,review,en,"Redmi Note 12 battery life is amazing, really impressed.",positive,2,0
+1895,Netflix,Netflix App,review,pt,"Ainda testando Netflix App, cedo pra opinar.",neutral,1,0
+2342,Sony,PlayStation 5,review,es,"Muy buena compra, PlayStation 5 vale la pena.",positive,2,0
+1835,Netflix,Netflix App,review,de,Netflix App erfüllt seinen Zweck.,neutral,1,0
+1726,Tesla,Model Y,review,ar,بطارية Model Y تدوم لفترة طويلة، شيء جميل.,positive,2,0
+1147,Xiaomi,Redmi Note 12,tweet,de,"Sehr glücklich mit Redmi Note 12, alles läuft schnell und flüssig.",positive,2,0
+1396,Xiaomi,Mi 11 Lite,tweet,ar,استخدام بسيط لـ Mi 11 Lite، يقوم بالغرض.,neutral,1,0
+2763,Google,YouTube App,review,pt,"Muitos bugs em YouTube App, não recomendo.",negative,0,0
+2398,Sony,PlayStation 5,review,it,"PlayStation 5 funziona benissimo, sono molto soddisfatto 😊",positive,2,0
+2549,Google,Pixel 7,review,de,"Toll, Pixel 7 ist schon wieder eingefroren… Non vraiment, continuez comme ça…",negative,0,1
+2310,Sony,PlayStation 5,tweet,en,"Support for PlayStation 5 is terrible, no one answers.",negative,0,0
+1498,Tesla,Model 3,review,de,"Model 3 funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+1798,Netflix,Netflix App,tweet,en,"Very happy with Netflix App, smooth and fast.",positive,2,0
+1369,Xiaomi,Mi 11 Lite,tweet,pt,"Mi 11 Lite não é ruim, mas esperava mais.",neutral,1,0
+2197,McDonalds,McDo App,tweet,de,"McDo App wird ständig zu heiß, kaum nutzbar.",negative,0,0
+1058,Xiaomi,Redmi Note 12,tweet,fr,"Reçu Redmi Note 12, conforme à la description.",neutral,1,0
+411,Samsung,Galaxy A54,tweet,es,"La batería de Galaxy A54 dura bastante, me gusta.",positive,2,0
+1657,Tesla,Model Y,tweet,de,"Model Y funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+2529,Google,Pixel 7,tweet,de,Die Akkulaufzeit von Pixel 7 ist beeindruckend.,positive,2,0
+1457,Tesla,Model 3,review,es,"Uso básico de Model 3, cumple su función.",neutral,1,0
+2668,Google,YouTube App,tweet,en,"YouTube App overheats all the time, can't even use it properly. Meilleure expérience de ma vie, vraiment.",negative,0,1
+2323,Sony,PlayStation 5,review,en,"Basic use of PlayStation 5, does the job.",neutral,1,0
+2781,Google,YouTube App,tweet,ar,خدمة الدعم لـ YouTube App سيئة جدًا، لا أحد يرد.,negative,0,0
+652,Apple,iPhone 13,review,pt,"Maravilha, iPhone 13 travou de novo…",negative,0,0
+33,Samsung,Galaxy S21,tweet,en,"Galaxy S21 is okay, nothing special.",neutral,1,0
+799,Apple,iPhone 14,tweet,de,"Ständige Abstürze mit iPhone 14, danke Apple…",negative,0,0
+68,Samsung,Galaxy S21,tweet,es,"Galaxy S21 es un desastre total, muy decepcionado 😡",negative,0,0
+1600,Tesla,Model Y,tweet,fr,"Pour le prix, Model Y fait largement le taf 👍",positive,2,0
+1274,Xiaomi,Mi 11 Lite,tweet,en,"Mi 11 Lite battery life is amazing, really impressed.",positive,2,0
+2710,Google,YouTube App,review,de,Google hat mit YouTube App einen guten Job gemacht.,positive,2,0
+941,Apple,iPhone 15,review,es,"Genial, iPhone 15 se ha colgado otra vez…",negative,0,0
+1749,Tesla,Model Y,review,ar,رائع، Model Y تعطل مرة أخرى…,negative,0,0
+368,Samsung,Galaxy A54,tweet,fr,"Encore un bug avec Galaxy A54, sérieux Samsung abuse là… Trop bien, j'adore perdre mon temps.",negative,0,1
+2790,Google,YouTube App,review,ar,خدمة الدعم لـ YouTube App سيئة جدًا، لا أحد يرد. Franchement génial 🙃,negative,0,1
+522,Samsung,Galaxy A54,review,ar,Galaxy A54 ممتاز جدًا، أنا راضٍ عنه 😊,positive,2,0
+319,Samsung,Galaxy S22,review,pt,"Ainda testando Galaxy S22, cedo pra opinar.",neutral,1,0
+745,Apple,iPhone 14,review,en,"Apple did a good job with iPhone 14, I would buy again.",positive,2,0
+1114,Xiaomi,Redmi Note 12,review,es,"Muy buena compra, Redmi Note 12 vale la pena.",positive,2,0
+2217,McDonalds,McDo App,review,it,McDonalds ha fatto un buon lavoro con McDo App.,positive,2,0
+1511,Tesla,Model 3,review,it,"Model 3 funziona benissimo, sono molto soddisfatto 😊",positive,2,0
+2676,Google,YouTube App,tweet,es,"YouTube App se calienta demasiado, imposible usarlo bien.",negative,0,0
+991,Apple,iPhone 15,tweet,it,"Fantastico, iPhone 15 si è bloccato di nuovo… Merci pour rien.",negative,0,1
+1174,Xiaomi,Redmi Note 12,tweet,it,"Redmi Note 12 non è male, ma mi aspettavo di più.",neutral,1,0
+1152,Xiaomi,Redmi Note 12,tweet,it,"Redmi Note 12 si scalda troppo, difficile da usare. Non vraiment, continuez comme ça…",negative,0,1
+2118,McDonalds,McDo App,tweet,fr,"McDo App tient bien la batterie, interface fluide, j'aime bien.",positive,2,0
+2108,McDonalds,McDo App,review,fr,Pas encore assez utilisé McDo App pour donner un vrai avis.,neutral,1,0
+1351,Xiaomi,Mi 11 Lite,review,pt,"Ótima compra, Mi 11 Lite vale a pena.",positive,2,0
+2421,Sony,PlayStation 5,review,pt,"PlayStation 5 funciona muito bem, estou bem satisfeito 😊",positive,2,0
+2439,Sony,PlayStation 5,review,ar,استلمت PlayStation 5، مطابق للوصف.,neutral,1,0
+1382,Xiaomi,Mi 11 Lite,review,ar,Mi 11 Lite ليس سيئًا، لكن كنت أتوقع أفضل.,neutral,1,0
+747,Apple,iPhone 14,tweet,en,"iPhone 14 overheats all the time, can't even use it properly. Franchement génial 🙃",negative,0,1
+1352,Xiaomi,Mi 11 Lite,review,pt,"Ainda testando Mi 11 Lite, cedo pra opinar.",neutral,1,0
+1951,McDonalds,McDo Livraison,review,en,"Another crash with McDo Livraison, thanks McDonalds…",negative,0,0
+790,Apple,iPhone 14,tweet,de,"iPhone 14 wird ständig zu heiß, kaum nutzbar. Meilleure expérience de ma vie, vraiment.",negative,0,1
+2762,Google,YouTube App,tweet,pt,"YouTube App esquenta demais, difícil de usar. Franchement génial 🙃",negative,0,1
+835,Apple,iPhone 14,review,pt,"O suporte de iPhone 14 é péssimo, ninguém responde.",negative,0,0
+950,Apple,iPhone 15,tweet,es,"He recibido iPhone 15, coincide con la descripción.",neutral,1,0
+2320,Sony,PlayStation 5,review,en,"PlayStation 5 is fine, but I expected a bit more.",neutral,1,0
+31,Samsung,Galaxy S21,tweet,en,"Great, Galaxy S21 froze right in the middle of my call, nice job Samsung 👏",negative,0,0
+730,Apple,iPhone 14,tweet,en,"Received iPhone 14, matches the description.",neutral,1,0
+582,Apple,iPhone 13,review,es,"Genial, iPhone 13 se ha colgado otra vez… Franchement génial 🙃",negative,0,1
+1557,Tesla,Model 3,review,ar,Tesla قامت بعمل جيد مع Model 3.,positive,2,0
+195,Samsung,Galaxy S22,tweet,fr,"Pour le prix, Galaxy S22 fait largement le taf 👍",positive,2,0
+1085,Xiaomi,Redmi Note 12,tweet,en,"Very happy with Redmi Note 12, smooth and fast.",positive,2,0
+555,Apple,iPhone 13,tweet,en,"Very happy with iPhone 13, smooth and fast.",positive,2,0
+2034,McDonalds,McDo Livraison,review,it,"Ottimo acquisto, McDo Livraison va davvero bene.",positive,2,0
+2663,Google,YouTube App,tweet,en,"Still testing YouTube App, too early to judge.",neutral,1,0
+2400,Sony,PlayStation 5,review,it,"PlayStation 5 è un disastro totale, molto deluso 😡 Non vraiment, continuez comme ça…",negative,0,1
+1478,Tesla,Model 3,tweet,de,"Sehr glücklich mit Model 3, alles läuft schnell und flüssig.",positive,2,0
+2150,McDonalds,McDo App,review,en,"Received McDo App, matches the description.",neutral,1,0
+1318,Xiaomi,Mi 11 Lite,review,de,Mi 11 Lite wie beschrieben erhalten.,neutral,1,0
+142,Samsung,Galaxy S21,review,pt,"Galaxy S21 não é ruim, mas esperava mais.",neutral,1,0
+1337,Xiaomi,Mi 11 Lite,review,it,"Troppi bug su Mi 11 Lite, non lo consiglio.",negative,0,0
+789,Apple,iPhone 14,tweet,de,"iPhone 14 wird ständig zu heiß, kaum nutzbar.",negative,0,0
+2492,Google,Pixel 7,review,en,"For the price, Pixel 7 is definitely worth it.",positive,2,0
+1125,Xiaomi,Redmi Note 12,review,es,"Redmi Note 12 es un desastre total, muy decepcionado 😡",negative,0,0
+508,Samsung,Galaxy A54,tweet,ar,بطارية Galaxy A54 تدوم لفترة طويلة، شيء جميل.,positive,2,0
+240,Samsung,Galaxy S22,tweet,es,"La batería de Galaxy S22 dura bastante, me gusta.",positive,2,0
+2550,Google,Pixel 7,review,de,Der Support für Pixel 7 ist miserabel.,negative,0,0
+2473,Google,Pixel 7,review,fr,"Franchement Pixel 7 c'est une dinguerie, rien à dire 😍",positive,2,0
+74,Samsung,Galaxy S21,review,es,"Galaxy S21 está bien, nada especial.",neutral,1,0
+2021,McDonalds,McDo Livraison,tweet,de,McDo Livraison wie beschrieben erhalten.,neutral,1,0
+64,Samsung,Galaxy S21,tweet,es,"Galaxy S21 funciona muy bien, estoy muy contento 😊",positive,2,0
+1048,Apple,iPhone 15,tweet,ar,استخدام بسيط لـ iPhone 15، يقوم بالغرض.,neutral,1,0
+880,Apple,iPhone 15,tweet,fr,"iPhone 15 est correct sans plus, rien de spécial à dire.",neutral,1,0
+46,Samsung,Galaxy S21,review,en,"Support for Galaxy S21 is terrible, no one answers.",negative,0,0
+1101,Xiaomi,Redmi Note 12,tweet,es,"Uso básico de Redmi Note 12, cumple su función.",neutral,1,0
+2248,McDonalds,McDo App,review,pt,"McDo App funciona muito bem, estou bem satisfeito 😊",positive,2,0
+2211,McDonalds,McDo App,review,it,"La batteria di McDo App dura tanto, molto comodo.",positive,2,0
+81,Samsung,Galaxy S21,review,de,"Galaxy S21 funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+1299,Xiaomi,Mi 11 Lite,tweet,es,"Mi 11 Lite se calienta demasiado, imposible usarlo bien.",negative,0,0
+2283,Sony,PlayStation 5,tweet,fr,"Très satisfait de PlayStation 5, ça marche super bien.",positive,2,0
+179,Samsung,Galaxy S22,review,fr,"Galaxy S22 est correct sans plus, rien de spécial à dire.",neutral,1,0
+945,Apple,iPhone 15,review,es,"He recibido iPhone 15, coincide con la descripción.",neutral,1,0
+2035,McDonalds,McDo Livraison,tweet,it,"McDo Livraison è un disastro totale, molto deluso 😡",negative,0,0
+2731,Google,YouTube App,tweet,it,"Sto ancora provando YouTube App, troppo presto per giudicare.",neutral,1,0
+1033,Apple,iPhone 15,tweet,ar,بالنسبة للسعر، iPhone 15 خيار ممتاز.,positive,2,0
+2370,Sony,PlayStation 5,tweet,de,Die Akkulaufzeit von PlayStation 5 ist beeindruckend.,positive,2,0
+1248,Xiaomi,Mi 11 Lite,review,fr,"Utilisation basique de Mi 11 Lite, ça fait ce que ça doit faire.",neutral,1,0
+2448,Sony,PlayStation 5,review,ar,PlayStation 5 سيء جدًا، تجربة مخيبة للآمال 😡,negative,0,0
+2588,Google,Pixel 7,review,pt,"Ótima compra, Pixel 7 vale a pena.",positive,2,0
+1430,Tesla,Model 3,review,en,"Basic use of Model 3, does the job.",neutral,1,0
+728,Apple,iPhone 14,tweet,en,"Another crash with iPhone 14, thanks Apple… Meilleure expérience de ma vie, vraiment.",negative,0,1
+2002,McDonalds,McDo Livraison,tweet,de,McDo Livraison wie beschrieben erhalten.,neutral,1,0
+1737,Tesla,Model Y,tweet,ar,"Model Y سيء جدًا، تجربة مخيبة للآمال 😡 Meilleure expérience de ma vie, vraiment.",negative,0,1
+999,Apple,iPhone 15,tweet,it,"iPhone 15 non è male, ma mi aspettavo di più.",neutral,1,0
+444,Samsung,Galaxy A54,tweet,de,"Galaxy A54 ist okay, nichts Besonderes.",neutral,1,0
+2348,Sony,PlayStation 5,review,es,"PlayStation 5 es un desastre total, muy decepcionado 😡 Meilleure expérience de ma vie, vraiment.",negative,0,1
+323,Samsung,Galaxy S22,tweet,pt,"Pelo preço, Galaxy S22 é muito bom.",positive,2,0
+1742,Tesla,Model Y,review,ar,تجربة رائعة مع Model Y، أنصح به.,positive,2,0
+1718,Tesla,Model Y,review,pt,"Model Y é ok, nada demais.",neutral,1,0
+860,Apple,iPhone 14,review,ar,خدمة الدعم لـ iPhone 14 سيئة جدًا، لا أحد يرد.,negative,0,0
+1585,Tesla,Model Y,tweet,fr,"Model Y tient bien la batterie, interface fluide, j'aime bien.",positive,2,0
+45,Samsung,Galaxy S21,tweet,en,"Galaxy S21 battery life is amazing, really impressed.",positive,2,0
+2419,Sony,PlayStation 5,tweet,pt,"PlayStation 5 funciona muito bem, estou bem satisfeito 😊",positive,2,0
+1518,Tesla,Model 3,tweet,it,Tesla ha fatto un buon lavoro con Model 3.,positive,2,0
+1629,Tesla,Model Y,tweet,es,"Uso básico de Model Y, cumple su función.",neutral,1,0
+1711,Tesla,Model Y,review,pt,"Model Y esquenta demais, difícil de usar.",negative,0,0
+536,Apple,iPhone 13,tweet,fr,"Super, iPhone 13 qui plante en pleine réunion, merci Apple 👏 Franchement génial 🙃",negative,0,1
+1727,Tesla,Model Y,review,ar,تجربة رائعة مع Model Y، أنصح به.,positive,2,0
+2033,McDonalds,McDo Livraison,review,it,"McDo Livraison è nella media, niente di speciale.",neutral,1,0
+2385,Sony,PlayStation 5,tweet,it,"Troppi bug su PlayStation 5, non lo consiglio. Merci pour rien.",negative,0,1
+94,Samsung,Galaxy S21,review,de,"Galaxy S21 ist eine komplette Katastrophe, große Enttäuschung 😡 Franchement génial 🙃",negative,0,1
+2471,Google,Pixel 7,tweet,fr,"Utilisation basique de Pixel 7, ça fait ce que ça doit faire.",neutral,1,0
+176,Samsung,Galaxy S22,tweet,fr,"Franchement Galaxy S22 c'est une dinguerie, rien à dire 😍",positive,2,0
+868,Apple,iPhone 14,review,ar,استخدام بسيط لـ iPhone 14، يقوم بالغرض.,neutral,1,0
+1011,Apple,iPhone 15,review,pt,"iPhone 15 é ok, nada demais.",neutral,1,0
+197,Samsung,Galaxy S22,review,fr,"Samsung a fait un bon boulot avec Galaxy S22, je recommande.",positive,2,0
+2151,McDonalds,McDo App,tweet,es,"Todavía probando McDo App, demasiado pronto para opinar.",neutral,1,0
+1252,Xiaomi,Mi 11 Lite,review,en,"Basic use of Mi 11 Lite, does the job.",neutral,1,0
+2699,Google,YouTube App,review,es,"YouTube App está bien, nada especial.",neutral,1,0
+2712,Google,YouTube App,review,de,"Der Support für YouTube App ist miserabel. Non vraiment, continuez comme ça…",negative,0,1
+1668,Tesla,Model Y,review,de,"Model Y funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+2257,McDonalds,McDo App,tweet,ar,بطارية McDo App تدوم لفترة طويلة، شيء جميل.,positive,2,0
+299,Samsung,Galaxy S22,tweet,it,"Galaxy S22 si scalda troppo, difficile da usare. Meilleure expérience de ma vie, vraiment.",negative,0,1
+544,Apple,iPhone 13,tweet,fr,"Utilisation basique de iPhone 13, ça fait ce que ça doit faire.",neutral,1,0
+1491,Tesla,Model 3,review,de,"Model 3 wird ständig zu heiß, kaum nutzbar.",negative,0,0
+355,Samsung,Galaxy A54,tweet,fr,"Très satisfait de Galaxy A54, ça marche super bien.",positive,2,0
+917,Apple,iPhone 15,review,en,"For the price, iPhone 15 is definitely worth it.",positive,2,0
+412,Samsung,Galaxy A54,review,es,"Galaxy A54 está bien, nada especial.",neutral,1,0
+2409,Sony,PlayStation 5,review,pt,"A bateria de PlayStation 5 dura bastante, gostei.",positive,2,0
+1217,Xiaomi,Redmi Note 12,review,ar,بالنسبة للسعر، Redmi Note 12 خيار ممتاز.,positive,2,0
+2235,McDonalds,McDo App,tweet,pt,"McDo App é ok, nada demais.",neutral,1,0
+431,Samsung,Galaxy A54,review,de,Der Support für Galaxy A54 ist miserabel.,negative,0,0
+2589,Google,Pixel 7,review,pt,"Pixel 7 é ok, nada demais.",neutral,1,0
+1117,Xiaomi,Redmi Note 12,review,es,"El soporte de Redmi Note 12 es pésimo, nadie responde. Trop bien, j'adore perdre mon temps.",negative,0,1
+1128,Xiaomi,Redmi Note 12,review,de,"Redmi Note 12 wird ständig zu heiß, kaum nutzbar.",negative,0,0
+416,Samsung,Galaxy A54,review,es,"He recibido Galaxy A54, coincide con la descripción.",neutral,1,0
+2655,Google,YouTube App,tweet,en,"Very happy with YouTube App, smooth and fast.",positive,2,0
+611,Apple,iPhone 13,review,de,iPhone 13 erfüllt seinen Zweck.,neutral,1,0
+2692,Google,YouTube App,tweet,es,Google hizo un buen trabajo con YouTube App.,positive,2,0
+1867,Netflix,Netflix App,review,it,"Fantastico, Netflix App si è bloccato di nuovo… Merci pour rien.",negative,0,1
+519,Samsung,Galaxy A54,review,ar,Galaxy A54 يسخن بشكل مبالغ فيه، صعب الاستخدام.,negative,0,0
+2131,McDonalds,McDo App,review,en,"Still testing McDo App, too early to judge.",neutral,1,0
+2260,McDonalds,McDo App,review,ar,McDo App عادي، لا شيء مميز.,neutral,1,0
+71,Samsung,Galaxy S21,review,es,"Galaxy S21 es un desastre total, muy decepcionado 😡",negative,0,0
+1559,Tesla,Model 3,tweet,ar,Model 3 عادي، لا شيء مميز.,neutral,1,0
+2175,McDonalds,McDo App,review,es,"McDo App no está mal, pero esperaba más.",neutral,1,0
+1365,Xiaomi,Mi 11 Lite,tweet,pt,"Uso básico de Mi 11 Lite, faz o que promete.",neutral,1,0
+415,Samsung,Galaxy A54,review,es,"Galaxy A54 se calienta demasiado, imposible usarlo bien. Franchement génial 🙃",negative,0,1
+57,Samsung,Galaxy S21,tweet,es,"Muchos fallos con Galaxy S21, no lo recomiendo. Franchement génial 🙃",negative,0,1
+1973,McDonalds,McDo Livraison,review,en,"McDo Livraison overheats all the time, can't even use it properly. Meilleure expérience de ma vie, vraiment.",negative,0,1
+1555,Tesla,Model 3,tweet,ar,Model 3 ليس سيئًا، لكن كنت أتوقع أفضل.,neutral,1,0
+1230,Xiaomi,Mi 11 Lite,review,fr,"Super, Mi 11 Lite qui plante en pleine réunion, merci Xiaomi 👏",negative,0,0
+1245,Xiaomi,Mi 11 Lite,tweet,fr,"Encore un bug avec Mi 11 Lite, sérieux Xiaomi abuse là… Trop bien, j'adore perdre mon temps.",negative,0,1
+2767,Google,YouTube App,tweet,pt,"O suporte de YouTube App é péssimo, ninguém responde. Merci pour rien.",negative,0,1
+310,Samsung,Galaxy S22,review,pt,"Ainda testando Galaxy S22, cedo pra opinar.",neutral,1,0
+1940,McDonalds,McDo Livraison,review,fr,"McDo Livraison c'est une catastrophe, je regrette grave cet achat 😡 Non vraiment, continuez comme ça…",negative,0,1
+804,Apple,iPhone 14,review,it,"Troppi bug su iPhone 14, non lo consiglio.",negative,0,0
+2015,McDonalds,McDo Livraison,review,de,"Teste McDo Livraison noch, zu früh für ein Urteil.",neutral,1,0
+1223,Xiaomi,Redmi Note 12,tweet,ar,Redmi Note 12 عادي، لا شيء مميز.,neutral,1,0
+1519,Tesla,Model 3,review,it,"Ottimo acquisto, Model 3 va davvero bene.",positive,2,0
+756,Apple,iPhone 14,review,es,"La batería de iPhone 14 dura bastante, me gusta.",positive,2,0
+1042,Apple,iPhone 15,review,ar,iPhone 15 عادي، لا شيء مميز.,neutral,1,0
+600,Apple,iPhone 13,review,es,"Muchos fallos con iPhone 13, no lo recomiendo. Trop bien, j'adore perdre mon temps.",negative,0,1
+1363,Xiaomi,Mi 11 Lite,tweet,pt,"A bateria de Mi 11 Lite dura bastante, gostei.",positive,2,0
+1279,Xiaomi,Mi 11 Lite,tweet,es,"Mi 11 Lite es un desastre total, muy decepcionado 😡 Merci pour rien.",negative,0,1
+125,Samsung,Galaxy S21,tweet,it,"Galaxy S21 è un disastro totale, molto deluso 😡 Meilleure expérience de ma vie, vraiment.",negative,0,1
+1178,Xiaomi,Redmi Note 12,review,pt,"Redmi Note 12 é um desastre completo, muito decepcionado 😡",negative,0,0
+1890,Netflix,Netflix App,tweet,pt,"Netflix App é um desastre completo, muito decepcionado 😡",negative,0,0
+332,Samsung,Galaxy S22,review,ar,خدمة الدعم لـ Galaxy S22 سيئة جدًا، لا أحد يرد.,negative,0,0
+528,Apple,iPhone 13,tweet,fr,"Très satisfait de iPhone 13, ça marche super bien.",positive,2,0
+1832,Netflix,Netflix App,review,de,Die Akkulaufzeit von Netflix App ist beeindruckend.,positive,2,0
+2010,McDonalds,McDo Livraison,tweet,de,"Teste McDo Livraison noch, zu früh für ein Urteil.",neutral,1,0
+2462,Google,Pixel 7,review,fr,"Très satisfait de Pixel 7, ça marche super bien.",positive,2,0
+1394,Xiaomi,Mi 11 Lite,tweet,ar,Mi 11 Lite عادي، لا شيء مميز.,neutral,1,0
+963,Apple,iPhone 15,tweet,de,iPhone 15 wie beschrieben erhalten.,neutral,1,0
+1548,Tesla,Model 3,review,pt,"Model 3 é ok, nada demais.",neutral,1,0
+1848,Netflix,Netflix App,tweet,de,Der Support für Netflix App ist miserabel. Franchement génial 🙃,negative,0,1
+1703,Tesla,Model Y,review,pt,"Ainda testando Model Y, cedo pra opinar.",neutral,1,0
+1453,Tesla,Model 3,tweet,es,"Todavía probando Model 3, demasiado pronto para opinar.",neutral,1,0
+1652,Tesla,Model Y,review,de,Für den Preis ist Model Y auf jeden Fall top.,positive,2,0
+946,Apple,iPhone 15,tweet,es,"He recibido iPhone 15, coincide con la descripción.",neutral,1,0
+1208,Xiaomi,Redmi Note 12,review,ar,مشاكل كثيرة مع Redmi Note 12، لا أنصح به.,negative,0,0
+2380,Sony,PlayStation 5,tweet,it,"Ottimo acquisto, PlayStation 5 va davvero bene.",positive,2,0
+2084,McDonalds,McDo Livraison,review,ar,بالنسبة للسعر، McDo Livraison خيار ممتاز.,positive,2,0
+1037,Apple,iPhone 15,review,ar,تجربة رائعة مع iPhone 15، أنصح به.,positive,2,0
+1911,Netflix,Netflix App,review,ar,Netflix قامت بعمل جيد مع Netflix App.,positive,2,0
+1968,McDonalds,McDo Livraison,review,en,"Basic use of McDo Livraison, does the job.",neutral,1,0
+1162,Xiaomi,Redmi Note 12,tweet,it,"Redmi Note 12 è nella media, niente di speciale.",neutral,1,0
+234,Samsung,Galaxy S22,review,es,"Muy buena compra, Galaxy S22 vale la pena.",positive,2,0
+1150,Xiaomi,Redmi Note 12,review,de,"Toll, Redmi Note 12 ist schon wieder eingefroren…",negative,0,0
+787,Apple,iPhone 14,tweet,de,"iPhone 14 funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+433,Samsung,Galaxy A54,tweet,de,"Sehr glücklich mit Galaxy A54, alles läuft schnell und flüssig.",positive,2,0
+980,Apple,iPhone 15,tweet,it,"Ricevuto iPhone 15, conforme alla descrizione.",neutral,1,0
+1018,Apple,iPhone 15,tweet,pt,Apple mandou bem com iPhone 15.,positive,2,0
+2205,McDonalds,McDo App,review,it,"Per il prezzo, McDo App è davvero valido.",positive,2,0
+388,Samsung,Galaxy A54,review,en,"Very happy with Galaxy A54, smooth and fast.",positive,2,0
+1418,Tesla,Model 3,tweet,fr,"Super, Model 3 qui plante en pleine réunion, merci Tesla 👏",negative,0,0
+603,Apple,iPhone 13,tweet,de,"iPhone 13 ist okay, nichts Besonderes.",neutral,1,0
+437,Samsung,Galaxy A54,review,de,Samsung hat mit Galaxy A54 einen guten Job gemacht.,positive,2,0
+369,Samsung,Galaxy A54,review,fr,"Très satisfait de Galaxy A54, ça marche super bien.",positive,2,0
+1379,Xiaomi,Mi 11 Lite,tweet,ar,تجربة رائعة مع Mi 11 Lite، أنصح به.,positive,2,0
+1129,Xiaomi,Redmi Note 12,tweet,de,"Redmi Note 12 funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+1488,Tesla,Model 3,tweet,de,"Ständige Abstürze mit Model 3, danke Tesla…",negative,0,0
+2030,McDonalds,McDo Livraison,review,it,"McDo Livraison si scalda troppo, difficile da usare.",negative,0,0
+1766,Netflix,Netflix App,tweet,fr,"Pour le prix, Netflix App fait largement le taf 👍",positive,2,0
+2308,Sony,PlayStation 5,review,en,"PlayStation 5 is a complete disaster, huge disappointment 😡 Merci pour rien.",negative,0,1
+472,Samsung,Galaxy A54,review,it,"Uso base di Galaxy A54, fa il suo dovere.",neutral,1,0
+677,Apple,iPhone 13,review,ar,iPhone 13 ليس سيئًا، لكن كنت أتوقع أفضل.,neutral,1,0
+2631,Google,YouTube App,tweet,fr,"Pour le prix, YouTube App fait largement le taf 👍",positive,2,0
+30,Samsung,Galaxy S21,review,en,"Galaxy S21 battery life is amazing, really impressed.",positive,2,0
+2698,Google,YouTube App,review,es,"Genial, YouTube App se ha colgado otra vez… Franchement génial 🙃",negative,0,1
+820,Apple,iPhone 14,review,it,"Troppi bug su iPhone 14, non lo consiglio. Franchement génial 🙃",negative,0,1
+1287,Xiaomi,Mi 11 Lite,review,es,"Muy buena compra, Mi 11 Lite vale la pena.",positive,2,0
+2367,Sony,PlayStation 5,tweet,de,Sony hat mit PlayStation 5 einen guten Job gemacht.,positive,2,0
+791,Apple,iPhone 14,tweet,de,"iPhone 14 ist in Ordnung, hatte aber mehr erwartet.",neutral,1,0
+1392,Xiaomi,Mi 11 Lite,review,ar,استلمت Mi 11 Lite، مطابق للوصف.,neutral,1,0
+189,Samsung,Galaxy S22,review,fr,"Galaxy S22 chauffe tout le temps, impossible de jouer plus de 10 minutes. Franchement génial 🙃",negative,0,1
+171,Samsung,Galaxy S21,review,ar,مشاكل كثيرة مع Galaxy S21، لا أنصح به.,negative,0,0
+325,Samsung,Galaxy S22,tweet,pt,"Galaxy S22 funciona muito bem, estou bem satisfeito 😊",positive,2,0
+44,Samsung,Galaxy S21,review,en,"Honestly Galaxy S21 is great, no major issues so far 😊",positive,2,0
+88,Samsung,Galaxy S21,review,de,Galaxy S21 wie beschrieben erhalten.,neutral,1,0
+545,Apple,iPhone 13,tweet,fr,"iPhone 13 chauffe tout le temps, impossible de jouer plus de 10 minutes.",negative,0,0
+2315,Sony,PlayStation 5,review,en,"Basic use of PlayStation 5, does the job.",neutral,1,0
+283,Samsung,Galaxy S22,review,it,"Galaxy S22 non è male, ma mi aspettavo di più.",neutral,1,0
+2412,Sony,PlayStation 5,tweet,pt,"PlayStation 5 funciona muito bem, estou bem satisfeito 😊",positive,2,0
+1076,Xiaomi,Redmi Note 12,tweet,en,"Basic use of Redmi Note 12, does the job.",neutral,1,0
+2297,Sony,PlayStation 5,tweet,fr,"PlayStation 5 c'est une catastrophe, je regrette grave cet achat 😡",negative,0,0
+1367,Xiaomi,Mi 11 Lite,tweet,pt,"Mi 11 Lite esquenta demais, difícil de usar. Franchement génial 🙃",negative,0,1
+1784,Netflix,Netflix App,review,en,"Netflix App battery life is amazing, really impressed.",positive,2,0
+2202,McDonalds,McDo App,review,it,"La batteria di McDo App dura tanto, molto comodo.",positive,2,0
+2292,Sony,PlayStation 5,review,fr,"PlayStation 5 chauffe tout le temps, impossible de jouer plus de 10 minutes.",negative,0,0
+150,Samsung,Galaxy S21,review,pt,"Galaxy S21 é ok, nada demais.",neutral,1,0
+1785,Netflix,Netflix App,tweet,en,"Netflix App is okay, nothing special.",neutral,1,0
+2376,Sony,PlayStation 5,tweet,it,"Assistenza per PlayStation 5 pessima, nessuna risposta. Non vraiment, continuez comme ça…",negative,0,1
+1419,Tesla,Model 3,review,fr,"Tesla a fait un bon boulot avec Model 3, je recommande.",positive,2,0
+2156,McDonalds,McDo App,tweet,es,"Muy buena compra, McDo App vale la pena.",positive,2,0
+1921,Netflix,Netflix App,review,ar,رائع، Netflix App تعطل مرة أخرى…,negative,0,0
+2388,Sony,PlayStation 5,tweet,it,"Uso base di PlayStation 5, fa il suo dovere.",neutral,1,0
+135,Samsung,Galaxy S21,review,pt,"Galaxy S21 esquenta demais, difícil de usar.",negative,0,0
+1126,Xiaomi,Redmi Note 12,tweet,de,"Toll, Redmi Note 12 ist schon wieder eingefroren…",negative,0,0
+656,Apple,iPhone 13,review,pt,"iPhone 13 é um desastre completo, muito decepcionado 😡 Trop bien, j'adore perdre mon temps.",negative,0,1
+901,Apple,iPhone 15,review,en,"Support for iPhone 15 is terrible, no one answers.",negative,0,0
+2293,Sony,PlayStation 5,review,fr,"Utilisation basique de PlayStation 5, ça fait ce que ça doit faire.",neutral,1,0
+394,Samsung,Galaxy A54,review,en,"Galaxy A54 is okay, nothing special.",neutral,1,0
+2309,Sony,PlayStation 5,tweet,en,"Received PlayStation 5, matches the description.",neutral,1,0
+2079,McDonalds,McDo Livraison,tweet,ar,استلمت McDo Livraison، مطابق للوصف.,neutral,1,0
+2741,Google,YouTube App,tweet,it,"YouTube App è un disastro totale, molto deluso 😡 Meilleure expérience de ma vie, vraiment.",negative,0,1
+1038,Apple,iPhone 15,tweet,ar,iPhone 15 ممتاز جدًا، أنا راضٍ عنه 😊,positive,2,0
+1770,Netflix,Netflix App,review,fr,"Pour le prix, Netflix App fait largement le taf 👍",positive,2,0
+222,Samsung,Galaxy S22,review,en,"Galaxy S22 battery life is amazing, really impressed.",positive,2,0
+1682,Tesla,Model Y,tweet,it,"Per il prezzo, Model Y è davvero valido.",positive,2,0
+1272,Xiaomi,Mi 11 Lite,review,en,"Mi 11 Lite is fine, but I expected a bit more.",neutral,1,0
+2158,McDonalds,McDo App,tweet,es,"McDo App no está mal, pero esperaba más.",neutral,1,0
+174,Samsung,Galaxy S21,tweet,ar,Galaxy S21 ممتاز جدًا، أنا راضٍ عنه 😊,positive,2,0
+2173,McDonalds,McDo App,tweet,es,"Todavía probando McDo App, demasiado pronto para opinar.",neutral,1,0
+1810,Netflix,Netflix App,tweet,es,"Netflix App es un desastre total, muy decepcionado 😡",negative,0,0
+451,Samsung,Galaxy A54,review,it,"Sto ancora provando Galaxy A54, troppo presto per giudicare.",neutral,1,0
+1221,Xiaomi,Redmi Note 12,tweet,ar,تجربة رائعة مع Redmi Note 12، أنصح به.,positive,2,0
+2546,Google,Pixel 7,review,de,"Pixel 7 wird ständig zu heiß, kaum nutzbar. Meilleure expérience de ma vie, vraiment.",negative,0,1
+487,Samsung,Galaxy A54,tweet,pt,"Ótima compra, Galaxy A54 vale a pena.",positive,2,0
+2027,McDonalds,McDo Livraison,tweet,it,"Assistenza per McDo Livraison pessima, nessuna risposta.",negative,0,0
+153,Samsung,Galaxy S21,tweet,ar,استخدام بسيط لـ Galaxy S21، يقوم بالغرض.,neutral,1,0
+2263,McDonalds,McDo App,tweet,ar,استخدام بسيط لـ McDo App، يقوم بالغرض.,neutral,1,0
+1179,Xiaomi,Redmi Note 12,review,pt,"Redmi Note 12 esquenta demais, difícil de usar.",negative,0,0
+271,Samsung,Galaxy S22,review,de,Die Akkulaufzeit von Galaxy S22 ist beeindruckend.,positive,2,0
+408,Samsung,Galaxy A54,tweet,es,"Genial, Galaxy A54 se ha colgado otra vez… Non vraiment, continuez comme ça…",negative,0,1
+1124,Xiaomi,Redmi Note 12,review,es,"Redmi Note 12 se calienta demasiado, imposible usarlo bien.",negative,0,0
+2514,Google,Pixel 7,tweet,es,"Pixel 7 funciona muy bien, estoy muy contento 😊",positive,2,0
+1237,Xiaomi,Mi 11 Lite,review,fr,"Mi 11 Lite c'est une catastrophe, je regrette grave cet achat 😡",negative,0,0
+1877,Netflix,Netflix App,review,pt,"O suporte de Netflix App é péssimo, ninguém responde.",negative,0,0
+529,Apple,iPhone 13,tweet,fr,"Utilisation basique de iPhone 13, ça fait ce que ça doit faire.",neutral,1,0
+788,Apple,iPhone 14,review,de,"Toll, iPhone 14 ist schon wieder eingefroren…",negative,0,0
+2425,Sony,PlayStation 5,review,pt,"Recebi PlayStation 5, igual à descrição.",neutral,1,0
+258,Samsung,Galaxy S22,review,de,"Galaxy S22 wird ständig zu heiß, kaum nutzbar. Merci pour rien.",negative,0,1
+1962,McDonalds,McDo Livraison,tweet,en,"McDo Livraison battery life is amazing, really impressed.",positive,2,0
+696,Apple,iPhone 13,review,ar,iPhone 13 يسخن بشكل مبالغ فيه، صعب الاستخدام. Merci pour rien.,negative,0,1
+461,Samsung,Galaxy A54,review,it,"Fantastico, Galaxy A54 si è bloccato di nuovo…",negative,0,0
+2552,Google,Pixel 7,tweet,it,"La batteria di Pixel 7 dura tanto, molto comodo.",positive,2,0
+255,Samsung,Galaxy S22,review,de,Galaxy S22 wie beschrieben erhalten.,neutral,1,0
+507,Samsung,Galaxy A54,tweet,ar,مشاكل كثيرة مع Galaxy A54، لا أنصح به.,negative,0,0
+1831,Netflix,Netflix App,review,de,"Netflix App wird ständig zu heiß, kaum nutzbar. Franchement génial 🙃",negative,0,1
+1638,Tesla,Model Y,tweet,es,"Model Y se calienta demasiado, imposible usarlo bien. Meilleure expérience de ma vie, vraiment.",negative,0,1
+169,Samsung,Galaxy S21,tweet,ar,مشاكل كثيرة مع Galaxy S21، لا أنصح به.,negative,0,0
+1356,Xiaomi,Mi 11 Lite,tweet,pt,"Pelo preço, Mi 11 Lite é muito bom.",positive,2,0
+2335,Sony,PlayStation 5,tweet,es,"PlayStation 5 es un desastre total, muy decepcionado 😡",negative,0,0
+1294,Xiaomi,Mi 11 Lite,tweet,es,Xiaomi hizo un buen trabajo con Mi 11 Lite.,positive,2,0
+292,Samsung,Galaxy S22,tweet,it,"Sto ancora provando Galaxy S22, troppo presto per giudicare.",neutral,1,0
+2737,Google,YouTube App,tweet,it,"YouTube App è nella media, niente di speciale.",neutral,1,0
+742,Apple,iPhone 14,review,en,"iPhone 14 is fine, but I expected a bit more.",neutral,1,0
+440,Samsung,Galaxy A54,tweet,de,"Galaxy A54 ist eine komplette Katastrophe, große Enttäuschung 😡",negative,0,0
+136,Samsung,Galaxy S21,review,pt,"Galaxy S21 funciona muito bem, estou bem satisfeito 😊",positive,2,0
+1633,Tesla,Model Y,tweet,es,Tesla hizo un buen trabajo con Model Y.,positive,2,0
+2088,McDonalds,McDo Livraison,tweet,ar,McDo Livraison سيء جدًا، تجربة مخيبة للآمال 😡,negative,0,0
+2771,Google,YouTube App,review,pt,"Pelo preço, YouTube App é muito bom.",positive,2,0
+2523,Google,Pixel 7,tweet,es,"He recibido Pixel 7, coincide con la descripción.",neutral,1,0
+1290,Xiaomi,Mi 11 Lite,tweet,es,"He recibido Mi 11 Lite, coincide con la descripción.",neutral,1,0
+962,Apple,iPhone 15,review,de,"Toll, iPhone 15 ist schon wieder eingefroren… Non vraiment, continuez comme ça…",negative,0,1
+1554,Tesla,Model 3,tweet,ar,Model 3 عادي، لا شيء مميز.,neutral,1,0
+1353,Xiaomi,Mi 11 Lite,tweet,pt,"Mi 11 Lite é ok, nada demais.",neutral,1,0
+1072,Xiaomi,Redmi Note 12,review,fr,"Franchement Redmi Note 12 c'est une dinguerie, rien à dire 😍",positive,2,0
+1187,Xiaomi,Redmi Note 12,review,pt,"Redmi Note 12 é um desastre completo, muito decepcionado 😡",negative,0,0
+2424,Sony,PlayStation 5,review,pt,"PlayStation 5 não é ruim, mas esperava mais.",neutral,1,0
+977,Apple,iPhone 15,review,it,"Uso base di iPhone 15, fa il suo dovere.",neutral,1,0
+762,Apple,iPhone 14,tweet,es,"iPhone 14 se calienta demasiado, imposible usarlo bien. Meilleure expérience de ma vie, vraiment.",negative,0,1
+1436,Tesla,Model 3,tweet,en,"For the price, Model 3 is definitely worth it.",positive,2,0
+211,Samsung,Galaxy S22,review,en,"Great, Galaxy S22 froze right in the middle of my call, nice job Samsung 👏",negative,0,0
+1953,McDonalds,McDo Livraison,tweet,en,"Great, McDo Livraison froze right in the middle of my call, nice job McDonalds 👏 Franchement génial 🙃",negative,0,1
+1826,Netflix,Netflix App,tweet,de,Netflix hat mit Netflix App einen guten Job gemacht.,positive,2,0
+366,Samsung,Galaxy A54,tweet,fr,"Reçu Galaxy A54, conforme à la description.",neutral,1,0
+839,Apple,iPhone 14,review,pt,"Ainda testando iPhone 14, cedo pra opinar.",neutral,1,0
+931,Apple,iPhone 15,tweet,es,"Muchos fallos con iPhone 15, no lo recomiendo.",negative,0,0
+2247,McDonalds,McDo App,tweet,pt,"McDo App não é ruim, mas esperava mais.",neutral,1,0
+1948,McDonalds,McDo Livraison,review,fr,"McDo Livraison c'est une catastrophe, je regrette grave cet achat 😡 Non vraiment, continuez comme ça…",negative,0,1
+1728,Tesla,Model Y,tweet,ar,ما زلت أجرب Model Y، من المبكر الحكم.,neutral,1,0
+2061,McDonalds,McDo Livraison,review,pt,"McDo Livraison esquenta demais, difícil de usar. Franchement génial 🙃",negative,0,1
+2204,McDonalds,McDo App,review,it,"Assistenza per McDo App pessima, nessuna risposta. Merci pour rien.",negative,0,1
+109,Samsung,Galaxy S21,tweet,it,"La batteria di Galaxy S21 dura tanto, molto comodo.",positive,2,0
+2092,McDonalds,McDo Livraison,tweet,ar,استلمت McDo Livraison، مطابق للوصف.,neutral,1,0
+1433,Tesla,Model 3,tweet,en,"Very happy with Model 3, smooth and fast.",positive,2,0
+421,Samsung,Galaxy A54,review,es,"Muchos fallos con Galaxy A54, no lo recomiendo.",negative,0,0
+333,Samsung,Galaxy S22,review,ar,"Galaxy S22 سيء جدًا، تجربة مخيبة للآمال 😡 Non vraiment, continuez comme ça…",negative,0,1
+1335,Xiaomi,Mi 11 Lite,review,it,"Mi 11 Lite non è male, ma mi aspettavo di più.",neutral,1,0
+2773,Google,YouTube App,tweet,pt,"Uso básico de YouTube App, faz o que promete.",neutral,1,0
+1887,Netflix,Netflix App,tweet,pt,"Uso básico de Netflix App, faz o que promete.",neutral,1,0
+959,Apple,iPhone 15,tweet,de,Apple hat mit iPhone 15 einen guten Job gemacht.,positive,2,0
+1729,Tesla,Model Y,tweet,ar,بطارية Model Y تدوم لفترة طويلة، شيء جميل.,positive,2,0
+1028,Apple,iPhone 15,tweet,ar,ما زلت أجرب iPhone 15، من المبكر الحكم.,neutral,1,0
+1610,Tesla,Model Y,tweet,en,"Tesla did a good job with Model Y, I would buy again.",positive,2,0
+566,Apple,iPhone 13,review,en,"iPhone 13 is okay, nothing special.",neutral,1,0
+200,Samsung,Galaxy S22,tweet,fr,"Galaxy S22 est correct sans plus, rien de spécial à dire.",neutral,1,0
+1925,Netflix,Netflix App,tweet,ar,ما زلت أجرب Netflix App، من المبكر الحكم.,neutral,1,0
+749,Apple,iPhone 14,review,en,"iPhone 14 is okay, nothing special.",neutral,1,0
+290,Samsung,Galaxy S22,review,it,"Galaxy S22 è un disastro totale, molto deluso 😡",negative,0,0
+247,Samsung,Galaxy S22,tweet,es,Samsung hizo un buen trabajo con Galaxy S22.,positive,2,0
+2233,McDonalds,McDo App,tweet,pt,"O suporte de McDo App é péssimo, ninguém responde.",negative,0,0
+1034,Apple,iPhone 15,tweet,ar,ما زلت أجرب iPhone 15، من المبكر الحكم.,neutral,1,0
+1608,Tesla,Model Y,tweet,en,"Received Model Y, matches the description.",neutral,1,0
+1799,Netflix,Netflix App,tweet,en,"Very happy with Netflix App, smooth and fast.",positive,2,0
+663,Apple,iPhone 13,tweet,pt,"A bateria de iPhone 13 dura bastante, gostei.",positive,2,0
+1804,Netflix,Netflix App,review,es,"La batería de Netflix App dura bastante, me gusta.",positive,2,0
+2474,Google,Pixel 7,review,fr,"Pixel 7 c'est une catastrophe, je regrette grave cet achat 😡 Meilleure expérience de ma vie, vraiment.",negative,0,1
+671,Apple,iPhone 13,tweet,pt,"iPhone 13 é ok, nada demais.",neutral,1,0
+1408,Tesla,Model 3,review,fr,"Model 3 c'est une catastrophe, je regrette grave cet achat 😡",negative,0,0
+2708,Google,YouTube App,tweet,de,"YouTube App funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+1214,Xiaomi,Redmi Note 12,review,ar,تجربة رائعة مع Redmi Note 12، أنصح به.,positive,2,0
+2459,Google,Pixel 7,review,fr,Pas encore assez utilisé Pixel 7 pour donner un vrai avis.,neutral,1,0
+2026,McDonalds,McDo Livraison,review,it,"Sto ancora provando McDo Livraison, troppo presto per giudicare.",neutral,1,0
+512,Samsung,Galaxy A54,tweet,ar,Galaxy A54 عادي، لا شيء مميز.,neutral,1,0
+2418,Sony,PlayStation 5,tweet,pt,Sony mandou bem com PlayStation 5.,positive,2,0
+1238,Xiaomi,Mi 11 Lite,review,fr,Pas encore assez utilisé Mi 11 Lite pour donner un vrai avis.,neutral,1,0
+2755,Google,YouTube App,review,pt,"Recebi YouTube App, igual à descrição.",neutral,1,0
+105,Samsung,Galaxy S21,tweet,it,"Galaxy S21 è nella media, niente di speciale.",neutral,1,0
+1963,McDonalds,McDo Livraison,review,en,"McDo Livraison overheats all the time, can't even use it properly. Merci pour rien.",negative,0,1
+2213,McDonalds,McDo App,tweet,it,"Sto ancora provando McDo App, troppo presto per giudicare.",neutral,1,0
+2032,McDonalds,McDo Livraison,review,it,"Sto ancora provando McDo Livraison, troppo presto per giudicare.",neutral,1,0
+2787,Google,YouTube App,tweet,ar,YouTube App يسخن بشكل مبالغ فيه، صعب الاستخدام.,negative,0,0
+565,Apple,iPhone 13,review,en,"For the price, iPhone 13 is definitely worth it.",positive,2,0
+486,Samsung,Galaxy A54,tweet,pt,Samsung mandou bem com Galaxy A54.,positive,2,0
+2338,Sony,PlayStation 5,review,es,"Por el precio, PlayStation 5 está genial.",positive,2,0
+569,Apple,iPhone 13,tweet,en,"Basic use of iPhone 13, does the job.",neutral,1,0
+2560,Google,Pixel 7,tweet,it,"Per il prezzo, Pixel 7 è davvero valido.",positive,2,0
+227,Samsung,Galaxy S22,tweet,es,"Galaxy S22 es un desastre total, muy decepcionado 😡 Non vraiment, continuez comme ça…",negative,0,1
+232,Samsung,Galaxy S22,review,es,"Uso básico de Galaxy S22, cumple su función.",neutral,1,0
+2258,McDonalds,McDo App,tweet,ar,McDo App عادي، لا شيء مميز.,neutral,1,0
+1136,Xiaomi,Redmi Note 12,review,de,"Redmi Note 12 funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+112,Samsung,Galaxy S21,tweet,it,"Ricevuto Galaxy S21, conforme alla descrizione.",neutral,1,0
+52,Samsung,Galaxy S21,tweet,es,Samsung hizo un buen trabajo con Galaxy S21.,positive,2,0
+1540,Tesla,Model 3,tweet,pt,Tesla mandou bem com Model 3.,positive,2,0
+1979,McDonalds,McDo Livraison,review,es,"He recibido McDo Livraison, coincide con la descripción.",neutral,1,0
+1522,Tesla,Model 3,review,it,Tesla ha fatto un buon lavoro con Model 3.,positive,2,0
+1869,Netflix,Netflix App,review,it,"Per il prezzo, Netflix App è davvero valido.",positive,2,0
+1617,Tesla,Model Y,tweet,en,"Model Y is okay, nothing special.",neutral,1,0
+479,Samsung,Galaxy A54,review,pt,"A bateria de Galaxy A54 dura bastante, gostei.",positive,2,0
+1414,Tesla,Model 3,review,fr,"Model 3 c'est une catastrophe, je regrette grave cet achat 😡",negative,0,0
+465,Samsung,Galaxy A54,tweet,it,"Uso base di Galaxy A54, fa il suo dovere.",neutral,1,0
+2752,Google,YouTube App,review,pt,"O suporte de YouTube App é péssimo, ninguém responde.",negative,0,0
+1702,Tesla,Model Y,review,pt,"Ótima compra, Model Y vale a pena.",positive,2,0
+1412,Tesla,Model 3,tweet,fr,"Franchement Model 3 c'est une dinguerie, rien à dire 😍",positive,2,0
+1577,Tesla,Model Y,review,fr,"Pour le prix, Model Y fait largement le taf 👍",positive,2,0
+2587,Google,Pixel 7,review,pt,"Pixel 7 funciona muito bem, estou bem satisfeito 😊",positive,2,0
+533,Apple,iPhone 13,review,fr,"Reçu iPhone 13, conforme à la description.",neutral,1,0
+2431,Sony,PlayStation 5,tweet,ar,خدمة الدعم لـ PlayStation 5 سيئة جدًا، لا أحد يرد.,negative,0,0
+2489,Google,Pixel 7,tweet,en,"Pixel 7 overheats all the time, can't even use it properly. Trop bien, j'adore perdre mon temps.",negative,0,1
+618,Apple,iPhone 13,tweet,de,"iPhone 13 ist eine komplette Katastrophe, große Enttäuschung 😡 Non vraiment, continuez comme ça…",negative,0,1
+1323,Xiaomi,Mi 11 Lite,tweet,de,"Mi 11 Lite ist eine komplette Katastrophe, große Enttäuschung 😡 Merci pour rien.",negative,0,1
+213,Samsung,Galaxy S22,review,en,"Very happy with Galaxy S22, smooth and fast.",positive,2,0
+1939,McDonalds,McDo Livraison,tweet,fr,"McDo Livraison tient bien la batterie, interface fluide, j'aime bien.",positive,2,0
+1955,McDonalds,McDo Livraison,tweet,en,"Very happy with McDo Livraison, smooth and fast.",positive,2,0
+2276,Sony,PlayStation 5,review,fr,Pas encore assez utilisé PlayStation 5 pour donner un vrai avis.,neutral,1,0
+423,Samsung,Galaxy A54,review,es,"El soporte de Galaxy A54 es pésimo, nadie responde.",negative,0,0
+720,Apple,iPhone 14,tweet,fr,"iPhone 14 tient bien la batterie, interface fluide, j'aime bien.",positive,2,0
+314,Samsung,Galaxy S22,review,pt,"Galaxy S22 não é ruim, mas esperava mais.",neutral,1,0
+2124,McDonalds,McDo App,review,fr,"Super, McDo App qui plante en pleine réunion, merci McDonalds 👏",negative,0,0
+510,Samsung,Galaxy A54,review,ar,استخدام بسيط لـ Galaxy A54، يقوم بالغرض.,neutral,1,0
+534,Apple,iPhone 13,review,fr,"iPhone 13 OK, mais je m'attendais à un peu mieux.",neutral,1,0
+1090,Xiaomi,Redmi Note 12,review,en,"Basic use of Redmi Note 12, does the job.",neutral,1,0
+1024,Apple,iPhone 15,tweet,pt,"Ainda testando iPhone 15, cedo pra opinar.",neutral,1,0
+651,Apple,iPhone 13,tweet,pt,"iPhone 13 é um desastre completo, muito decepcionado 😡",negative,0,0
+219,Samsung,Galaxy S22,review,en,"Galaxy S22 is a complete disaster, huge disappointment 😡",negative,0,0
+480,Samsung,Galaxy A54,review,pt,"Ainda testando Galaxy A54, cedo pra opinar.",neutral,1,0
+1134,Xiaomi,Redmi Note 12,tweet,de,"Redmi Note 12 ist eine komplette Katastrophe, große Enttäuschung 😡",negative,0,0
+2017,McDonalds,McDo Livraison,tweet,de,McDonalds hat mit McDo Livraison einen guten Job gemacht.,positive,2,0
+1643,Tesla,Model Y,tweet,es,"Genial, Model Y se ha colgado otra vez…",negative,0,0
+870,Apple,iPhone 14,review,ar,iPhone 14 سيء جدًا، تجربة مخيبة للآمال 😡,negative,0,0
+1069,Xiaomi,Redmi Note 12,tweet,fr,"Redmi Note 12 c'est une catastrophe, je regrette grave cet achat 😡 Non vraiment, continuez comme ça…",negative,0,1
+1231,Xiaomi,Mi 11 Lite,review,fr,"Utilisation basique de Mi 11 Lite, ça fait ce que ça doit faire.",neutral,1,0
+2427,Sony,PlayStation 5,review,ar,PlayStation 5 عادي، لا شيء مميز.,neutral,1,0
+2702,Google,YouTube App,review,de,Für den Preis ist YouTube App auf jeden Fall top.,positive,2,0
+1019,Apple,iPhone 15,tweet,pt,"Ótima compra, iPhone 15 vale a pena.",positive,2,0
+2470,Google,Pixel 7,review,fr,"Encore un bug avec Pixel 7, sérieux Google abuse là… Trop bien, j'adore perdre mon temps.",negative,0,1
+558,Apple,iPhone 13,tweet,en,"Very happy with iPhone 13, smooth and fast.",positive,2,0
+2570,Google,Pixel 7,tweet,it,Google ha fatto un buon lavoro con Pixel 7.,positive,2,0
+1317,Xiaomi,Mi 11 Lite,tweet,de,Die Akkulaufzeit von Mi 11 Lite ist beeindruckend.,positive,2,0
+2226,McDonalds,McDo App,review,pt,"Uso básico de McDo App, faz o que promete.",neutral,1,0
+2706,Google,YouTube App,tweet,de,"Toll, YouTube App ist schon wieder eingefroren…",negative,0,0
+1814,Netflix,Netflix App,review,es,"La batería de Netflix App dura bastante, me gusta.",positive,2,0
+1651,Tesla,Model Y,tweet,de,"Toll, Model Y ist schon wieder eingefroren…",negative,0,0
+1423,Tesla,Model 3,review,fr,Pas encore assez utilisé Model 3 pour donner un vrai avis.,neutral,1,0
+1256,Xiaomi,Mi 11 Lite,tweet,en,"For the price, Mi 11 Lite is definitely worth it.",positive,2,0
+765,Apple,iPhone 14,review,es,"iPhone 14 no está mal, pero esperaba más.",neutral,1,0
+1986,McDonalds,McDo Livraison,tweet,es,"Genial, McDo Livraison se ha colgado otra vez…",negative,0,0
+1622,Tesla,Model Y,tweet,en,"Tesla did a good job with Model Y, I would buy again.",positive,2,0
+2594,Google,Pixel 7,tweet,pt,"Ótima compra, Pixel 7 vale a pena.",positive,2,0
+1757,Netflix,Netflix App,review,fr,"Super, Netflix App qui plante en pleine réunion, merci Netflix 👏",negative,0,0
+2717,Google,YouTube App,review,de,"YouTube App funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+359,Samsung,Galaxy A54,review,fr,"Très satisfait de Galaxy A54, ça marche super bien.",positive,2,0
+1264,Xiaomi,Mi 11 Lite,tweet,en,"For the price, Mi 11 Lite is definitely worth it.",positive,2,0
+273,Samsung,Galaxy S22,review,de,"Teste Galaxy S22 noch, zu früh für ein Urteil.",neutral,1,0
+1271,Xiaomi,Mi 11 Lite,review,en,"Mi 11 Lite overheats all the time, can't even use it properly.",negative,0,0
+103,Samsung,Galaxy S21,tweet,it,"Troppi bug su Galaxy S21, non lo consiglio.",negative,0,0
+499,Samsung,Galaxy A54,tweet,pt,"Recebi Galaxy A54, igual à descrição.",neutral,1,0
+260,Samsung,Galaxy S22,review,de,"Galaxy S22 ist eine komplette Katastrophe, große Enttäuschung 😡",negative,0,0
+97,Samsung,Galaxy S21,review,de,"Teste Galaxy S21 noch, zu früh für ein Urteil.",neutral,1,0
+252,Samsung,Galaxy S22,review,de,"Ständige Abstürze mit Galaxy S22, danke Samsung…",negative,0,0
+2592,Google,Pixel 7,review,pt,"A bateria de Pixel 7 dura bastante, gostei.",positive,2,0
+2234,McDonalds,McDo App,review,pt,"Ótima compra, McDo App vale a pena.",positive,2,0
+783,Apple,iPhone 14,tweet,de,iPhone 14 erfüllt seinen Zweck.,neutral,1,0
+1748,Tesla,Model Y,review,ar,Model Y سيء جدًا، تجربة مخيبة للآمال 😡,negative,0,0
+1026,Apple,iPhone 15,tweet,ar,"رائع، iPhone 15 تعطل مرة أخرى… Trop bien, j'adore perdre mon temps.",negative,0,1
+2249,McDonalds,McDo App,tweet,pt,"McDo App é um desastre completo, muito decepcionado 😡 Merci pour rien.",negative,0,1
+1667,Tesla,Model Y,review,de,"Model Y ist eine komplette Katastrophe, große Enttäuschung 😡",negative,0,0
+1308,Xiaomi,Mi 11 Lite,tweet,de,"Teste Mi 11 Lite noch, zu früh für ein Urteil.",neutral,1,0
+1273,Xiaomi,Mi 11 Lite,tweet,en,"Still testing Mi 11 Lite, too early to judge.",neutral,1,0
+2539,Google,Pixel 7,review,de,Google hat mit Pixel 7 einen guten Job gemacht.,positive,2,0
+2677,Google,YouTube App,tweet,es,"Muchos fallos con YouTube App, no lo recomiendo.",negative,0,0
+2168,McDonalds,McDo App,tweet,es,"Muy buena compra, McDo App vale la pena.",positive,2,0
+457,Samsung,Galaxy A54,review,it,"Ottimo acquisto, Galaxy A54 va davvero bene.",positive,2,0
+463,Samsung,Galaxy A54,review,it,"Galaxy A54 è un disastro totale, molto deluso 😡",negative,0,0
+2078,McDonalds,McDo Livraison,review,ar,McDo Livraison ممتاز جدًا، أنا راضٍ عنه 😊,positive,2,0
+768,Apple,iPhone 14,tweet,es,"iPhone 14 se calienta demasiado, imposible usarlo bien. Merci pour rien.",negative,0,1
+382,Samsung,Galaxy A54,review,en,"Galaxy A54 overheats all the time, can't even use it properly.",negative,0,0
+1390,Xiaomi,Mi 11 Lite,tweet,ar,مشاكل كثيرة مع Mi 11 Lite، لا أنصح به. Franchement génial 🙃,negative,0,1
+706,Apple,iPhone 14,review,fr,"iPhone 14 c'est une catastrophe, je regrette grave cet achat 😡",negative,0,0
+842,Apple,iPhone 14,review,pt,Apple mandou bem com iPhone 14.,positive,2,0
+1881,Netflix,Netflix App,review,pt,"Pelo preço, Netflix App é muito bom.",positive,2,0
+1229,Xiaomi,Mi 11 Lite,review,fr,"Service client pour Mi 11 Lite inexistant, très mauvaise expérience. Trop bien, j'adore perdre mon temps.",negative,0,1
+2662,Google,YouTube App,tweet,en,"Great, YouTube App froze right in the middle of my call, nice job Google 👏",negative,0,0
+1537,Tesla,Model 3,review,pt,"A bateria de Model 3 dura bastante, gostei.",positive,2,0
+2107,McDonalds,McDo App,tweet,fr,"McDonalds a fait un bon boulot avec McDo App, je recommande.",positive,2,0
+1721,Tesla,Model Y,tweet,pt,"Uso básico de Model Y, faz o que promete.",neutral,1,0
+2538,Google,Pixel 7,review,de,"Pixel 7 funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+2134,McDonalds,McDo App,tweet,en,"McDonalds did a good job with McDo App, I would buy again.",positive,2,0
+1111,Xiaomi,Redmi Note 12,tweet,es,"Redmi Note 12 se calienta demasiado, imposible usarlo bien.",negative,0,0
+1545,Tesla,Model 3,review,pt,"Model 3 é um desastre completo, muito decepcionado 😡",negative,0,0
+568,Apple,iPhone 13,review,en,"iPhone 13 battery life is amazing, really impressed.",positive,2,0
+1974,McDonalds,McDo Livraison,review,en,"Great, McDo Livraison froze right in the middle of my call, nice job McDonalds 👏",negative,0,0
+1191,Xiaomi,Redmi Note 12,tweet,pt,"A bateria de Redmi Note 12 dura bastante, gostei.",positive,2,0
+2703,Google,YouTube App,review,de,"YouTube App funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+818,Apple,iPhone 14,review,it,"Sto ancora provando iPhone 14, troppo presto per giudicare.",neutral,1,0
+766,Apple,iPhone 14,review,es,"Muchos fallos con iPhone 14, no lo recomiendo.",negative,0,0
+1908,Netflix,Netflix App,review,ar,بالنسبة للسعر، Netflix App خيار ممتاز.,positive,2,0
+1613,Tesla,Model Y,tweet,en,"Tesla did a good job with Model Y, I would buy again.",positive,2,0
+436,Samsung,Galaxy A54,review,de,Die Akkulaufzeit von Galaxy A54 ist beeindruckend.,positive,2,0
+938,Apple,iPhone 15,review,es,"Por el precio, iPhone 15 está genial.",positive,2,0
+238,Samsung,Galaxy S22,tweet,es,"Galaxy S22 no está mal, pero esperaba más.",neutral,1,0
+2598,Google,Pixel 7,review,pt,"Uso básico de Pixel 7, faz o que promete.",neutral,1,0
+110,Samsung,Galaxy S21,review,it,"Ottimo acquisto, Galaxy S21 va davvero bene.",positive,2,0
+1967,McDonalds,McDo Livraison,tweet,en,"Still testing McDo Livraison, too early to judge.",neutral,1,0
+164,Samsung,Galaxy S21,tweet,ar,استخدام بسيط لـ Galaxy S21، يقوم بالغرض.,neutral,1,0
+1838,Netflix,Netflix App,review,de,"Netflix App ist okay, nichts Besonderes.",neutral,1,0
+253,Samsung,Galaxy S22,review,de,"Galaxy S22 funktioniert wirklich gut, bin sehr zufrieden 😊",positive,2,0
+1733,Tesla,Model Y,tweet,ar,Model Y يسخن بشكل مبالغ فيه، صعب الاستخدام.,negative,0,0
+1992,McDonalds,McDo Livraison,tweet,es,"McDo Livraison no está mal, pero esperaba más.",neutral,1,0
+1616,Tesla,Model Y,tweet,en,"Model Y is a complete disaster, huge disappointment 😡",negative,0,0
+2180,McDonalds,McDo App,tweet,de,"McDo App wird ständig zu heiß, kaum nutzbar.",negative,0,0
+2547,Google,Pixel 7,review,de,Der Support für Pixel 7 ist miserabel.,negative,0,0
+2176,McDonalds,McDo App,tweet,de,"McDo App ist in Ordnung, hatte aber mehr erwartet.",neutral,1,0
+2137,McDonalds,McDo App,review,en,"Basic use of McDo App, does the job.",neutral,1,0
+645,Apple,iPhone 13,review,it,"Uso base di iPhone 13, fa il suo dovere.",neutral,1,0
+1005,Apple,iPhone 15,tweet,pt,"Recebi iPhone 15, igual à descrição.",neutral,1,0
+1081,Xiaomi,Redmi Note 12,review,en,"Xiaomi did a good job with Redmi Note 12, I would buy again.",positive,2,0
+708,Apple,iPhone 14,review,fr,"iPhone 14 c'est une catastrophe, je regrette grave cet achat 😡",negative,0,0
+2241,McDonalds,McDo App,review,pt,"Maravilha, McDo App travou de novo…",negative,0,0
